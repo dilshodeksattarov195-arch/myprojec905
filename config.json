@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartpelete",
+        "uuid": 6849945,
+        "checksum": "7r0zrm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
